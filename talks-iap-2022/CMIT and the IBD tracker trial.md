@@ -1,0 +1,5 @@
+- Questions
+  - What datapoints need to be collected?
+  - Sample collection kit that is not onerous
+- Current focus on those already with IBD
+  - How do we prevent flare-ups?
