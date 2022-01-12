@@ -1,6 +1,8 @@
 # IBD
 
 ## Papers
+
+### IBD
 - Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans
 - [Therapeutic Opportunities in Inflammatory Bowel Disease: Mechanistic Dissection of Host-Microbiome Relationships](https://mattfeng.tech/reading-group/papers/j.cell.2019.07.045)
 - Cellular and inter-cellular rewiring of the human colon during ulcerative colitis
@@ -8,6 +10,9 @@
 - [Lloyd-Price et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778965/#R58)
 - [Vich Vila et al., 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778965/#R100)
 - [Schirmer et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778965/#R86)
+
+### Microbiome
+- [The Integrative Human Microbiome Project](https://www.nature.com/articles/s41586-019-1238-8)
 
 ## Datasets
 - https://robertshippey.github.io/IBD-data/
