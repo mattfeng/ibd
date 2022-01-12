@@ -1,9 +1,9 @@
 # Diagnostic and therapeutic opportunities in inflammatory bowel disease
 
-## Opportunity 1:
-- 
+## Opportunity 1: What is IBD?
+- Redefining the cellular and spatio-cellular features of IBD
 
-## Opportunity 2:
+## Opportunity 2: Causes and triggers of IBD?
 - Can we create tools that identify the triggers of pathologic/regulatory T cells in disease?
 - What are the implications for disease risk, recurrence and therapy
 - We do serial profiling of microbes and their metabolic potential
