@@ -19,5 +19,5 @@ _Watch [this introductory video](https://www.youtube.com/watch?v=cRLlrzh7lRI) on
 
 ![The structure of the 16S rRNA gene.](./16s-gene.png)
 
-16S gene has many constant (i.e. conserved) regions, and many variable regions. The constant regions allows us to create primers that can anneal to the DNA of _many types of bacteria_, and the variable regions, once sequenced, can let us identify _specific species of bacteria_.
+16S gene has many constant (i.e. conserved) regions, and many variable regions. The constant regions allow us to create primers that can anneal to the DNA of _many types of bacteria_, and the variable regions, once sequenced, let us identify _specific species of bacteria_.
 
