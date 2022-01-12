@@ -24,7 +24,25 @@ _Read [this overview](https://hmpdacc.org/ihmp/overview/) for more details on th
 ## The data
 The size of all the data collected from both phases of the HMP is **48.54 TB**. Luckily, for many of our analyses, we will only require a fraction of that.
 
+### Downloading the data
+Because of the large sizes of the data, tools have been created for downloading the data.
+- https://github.com/IGS/portal_client
+
 ### Analyzing HMP-1 Data
 The total size of HMP-1 data is about **38 TB**.
 
-#### Downloading the data
+#### Data formats
+There are a few different file formats for the sample data:
+
+##### Standard Flowgram Format (SFF) (`.sff`)
+Standard flowgram format (SFF) is a binary file format used to encode results of pyrosequencing from the 454 Life Sciences platform for high-throughput sequencing. Because 454 Life Sciences was shutdown in 2013, SFF is no longer a common format.
+
+The SFF format can be converted to FASTQ format using [BioPython](https://biopython.org/docs/1.75/api/Bio.SeqIO.SffIO.html).
+
+##### FASTA (`.fsa`, `.fasta`)
+
+### Analyzing iHMP Data
+
+#### Data formats
+
+##### Biological Observation Matrix (`.biom`)
