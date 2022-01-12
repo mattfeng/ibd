@@ -2,5 +2,6 @@
 
 ## Getting started (for researchers)
 - The basics of IBD
-- Datasets relevant to IBD
-  - Human Microbiome Project
+- Data relevant to IBD
+  - Foundations of metagenomics
+  - [The Human Microbiome Project](./human-microbiome-project)
