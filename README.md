@@ -14,6 +14,7 @@
 
 ### Microbiome
 - [The Integrative Human Microbiome Project](https://www.nature.com/articles/s41586-019-1238-8)
+- https://github.com/erictleung/microbiome-analysis-resources
 
 ## Datasets
 - https://robertshippey.github.io/IBD-data/

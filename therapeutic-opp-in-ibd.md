@@ -1,5 +1,9 @@
 - Microbiome is affected by
   - location in GI tract
   - human genetics (e.g. NOD2 variants)
-
 - Looking at how human genetics affects proteins that interact with microbes 
+  - NOD2, CARD9
+  - Unraveling host-microbe interactions will require
+    - larger cohorts
+    - stool sample biobanking
+    - microbiome typing of bacteria, fungi, small eukaryotes, and vira
