@@ -1,3 +1,3 @@
 # Data Collection and Analysis Platform
 
-- Take in raw WGS samples and export 
+- Take in raw WGS samples and export clinically relevant information
