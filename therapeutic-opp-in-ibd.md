@@ -7,3 +7,16 @@
     - larger cohorts
     - stool sample biobanking
     - microbiome typing of bacteria, fungi, small eukaryotes, and vira
+
+## 5. Pharmacology of microbiome-derived metabolites and host targets
+- 
+
+## Terms
+- M cell.
+  - microfold cell
+  - epithelial cells embedded in the epithelium of mucosal tissues
+  - have high capacity for transcytosis of a wide range of microorganisms and macromolecules
+- Mucosal tissue (mucosal membrane, mucosa)
+  - tissue membrane lining all body passages that communicate with the air
+    - e.g. respiratory and alimentary tracts
+  - has cells and associated glands that secrete mucus
