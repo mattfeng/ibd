@@ -40,5 +40,16 @@
 - Finding people for Phase II of the IBD Tracker
 - Finding funds to increase access to the IBD Tracker
 
+---
+
+<details>
+<summary><b>Clinical trial complexities</b></summary>
+
+test
+
+</details>
+
+---
+
 ## Things to look into
 - What are the regulatory requirements for a diagnostic?
