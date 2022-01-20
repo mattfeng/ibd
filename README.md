@@ -11,8 +11,9 @@
 
 ### IBD
 - Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans
+  - DIABIMMUNE study
 - [Therapeutic Opportunities in Inflammatory Bowel Disease: Mechanistic Dissection of Host-Microbiome Relationships](https://mattfeng.tech/reading-group/papers/j.cell.2019.07.045)
-  - Cellular and inter-cellular rewiring of the human colon during ulcerative colitis
+  - [Cellular and inter-cellular rewiring of the human colon during ulcerative colitis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662628/)
   - Environment dominates over host genetics in shaping human gut microbiota
   - Dysbiotic gut microbiome
     - [Lloyd-Price et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6778965/#R58)
@@ -27,7 +28,7 @@
 
 ## Datasets
 - https://robertshippey.github.io/IBD-data/
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6687058/
+- [Open data informatics and data repurposing for IBD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6687058/)
   - Public datasets with paired molecualr and patient survey info exist
   - https://pubmed.ncbi.nlm.nih.gov/28689150/
     - a re-analysis of NHANES data identified 4-tert-octylphenol as a possible
@@ -37,6 +38,10 @@
   - https://www.ncbi.nlm.nih.gov/pubmed/21849664/
     - anti-epileptic agent topiramate identified through gene expression data
       with drug screening
+- [DIABIMMUNE study](https://diabimmune.broadinstitute.org/diabimmune/three-country-cohort)
+  - hygiene hypothesis
+    - understand biological mechanisms that explain the increased incidence of
+      autoimmune diseases in modern western societies
 
 <!-- ############ -->
 
@@ -84,6 +89,22 @@
 - Keeping track of all interactions between study coordinators and possible
   subjects (i.e. keep track of those who do not want to partake)
 
+### Other issues
+- Insurance-mandated step therapy (failing drugs before moving onto more
+  expensive ones)
+  - currently being tackled through legislation
+
+### From patient stories
+- Clinical trials often fail patients
+  - Clinical trials often get cancelled as well
+- Patients try multiple drugs before starting biologics
+  - None of the drugs seem to work
+  - Biologics occasionally work
+  - Condition worsens which makes later drugs less likely to work
+- Surgery doesn't really work
+  - J-pouch
+  - Ileostomy
+
 <details>
 <summary><b>Finding people for Phase II of the IBD tracker</b></summary>
 
@@ -106,6 +127,14 @@
 - Samples must be processed according to protocol and collaborator requests
   - For IBD tracker, **Freezerworks** is used to barcode and track sample
     attributes and location
+
+</details>
+
+<details>
+<summary><b>Meta; why projects fail</b></summary>
+
+- not understanding the patient in depth
+- stakeholder management; need to engage the right people
 
 </details>
 
