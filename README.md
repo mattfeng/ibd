@@ -1,7 +1,7 @@
 # IBD
 
 <details>
-<summary><h3>The science of IBD</h3></summary>
+<summary><span><h3>The science of IBD</h3><span></summary>
 
 ### Where is IBD found?
 - Western hemisphere: United States, United Kingdom, Poland, Serbia, Romania
@@ -34,7 +34,7 @@
 - https://www.broadinstitute.org/bios/ramnik-xavier
 
 <details>
-<summary><h3>Problems to tackle</h3></summary>
+<summary><h2>Problems to tackle</h2></summary>
 
 ### Research
 - Predicting disease course
@@ -71,9 +71,6 @@
 - Subject follow up can be challenging
 - Keeping track of all interactions between study coordinators and possible
   subjects (i.e. keep track of those who do not want to partake)
-
-
----
 
 <details>
 <summary><b>Finding people for Phase II of the IBD tracker</b></summary>
