@@ -22,3 +22,23 @@
 ## People and Labs
 - https://github.com/GRONINGEN-MICROBIOME-CENTRE
 - https://www.broadinstitute.org/bios/ramnik-xavier
+
+## Problems to tackle
+
+### Research
+- Predicting disease course
+- Figuring out the causes of patients going from inactive to active disease
+- Better data for better characterization of IBD
+
+### Business
+- Lowering the cost of the IBD Tracker
+  - Focus in on the factors that are most predictive
+- Make mailing samples easy
+- Sample collection kit that is not onerous
+  - Make it feel like patients are at the cutting edge, rather in a research
+    study
+- Finding people for Phase II of the IBD Tracker
+- Finding funds to increase access to the IBD Tracker
+
+## Things to look into
+- What are the regulatory requirements for a diagnostic?

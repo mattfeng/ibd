@@ -3,9 +3,6 @@
 - Marjolein Klaassen, IBD Tracker: identifying biomarkers in the gut microbiome
   predictive of an IBD flare
 
-- Current focus on those already with IBD
-  - How do we prevent flare-ups?
-
 ## Notes
 - Identifying the bacteria present in the microbiome
   - No single bacteria as obvious factor
@@ -44,24 +41,6 @@
     - predictors of future flare
       - increasing scores on clinical questionnaires
       - increasing measurements of fecal calprotectin
-
----
-
-## Problems to tackle
-
-### Research
-- Predicting disease course
-- Figuring out the causes of patients going from inactive to active disease
-
-### Business
-- Lowering the cost of the IBD Tracker
-  - Focus in on the factors that are most predictive
-- Make mailing samples easy
-- Sample collection kit that is not onerous
-  - Make it feel like patients are at the cutting edge, rather in a research
-    study
-- Finding people for Phase II of the IBD Tracker
-- Finding funds to increase access to the IBD Tracker
 
 ---
 
