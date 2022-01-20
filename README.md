@@ -39,13 +39,38 @@
     study
 - Finding people for Phase II of the IBD Tracker
 - Finding funds to increase access to the IBD Tracker
+- Data challenges
+  - Gaps in data due to missed study visits
+  - Planning data collection with retrospective studies in mind
+  - Data quality varies as methods improve
+- Subject follow up can be challenging
+- Keeping track of all interactions between study coordinators and possible
+  subjects (i.e. keep track of those who do not want to partake)
 
 ---
 
 <details>
-<summary><b>Clinical trial complexities</b></summary>
+<summary><b>Finding people for Phase II of the IBD tracker</b></summary>
 
-test
+- Recruiting
+  - Screen against past illnesses
+  - Screen for IBD
+  - Set up criteria for controls
+- Logistics
+  - approaching subjects
+  - setting study visits
+  - recuitment of special cohorts
+  - acquiring consent
+
+</details>
+
+<details>
+<summary><b>Sample collection</b></summary>
+
+- Unique ID for each asmple
+- Samples must be processed according to protocol and collaborator requests
+  - For IBD tracker, **Freezerworks** is used to barcode and track sample
+    attributes and location
 
 </details>
 
