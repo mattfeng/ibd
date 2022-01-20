@@ -5,7 +5,7 @@
 ### Where is IBD found?
 - Western hemisphere: United States, United Kingdom, Poland, Serbia, Romania
 
----
+<!-- ############ -->
 
 ## Papers
 
@@ -23,14 +23,28 @@
 - [The Integrative Human Microbiome Project](https://www.nature.com/articles/s41586-019-1238-8)
 - https://github.com/erictleung/microbiome-analysis-resources
 
+<!-- ############ -->
+
 ## Datasets
 - https://robertshippey.github.io/IBD-data/
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6687058/
   - Public datasets with paired molecualr and patient survey info exist
+  - https://pubmed.ncbi.nlm.nih.gov/28689150/
+    - a re-analysis of NHANES data identified 4-tert-octylphenol as a possible
+      environmental toxin associated with ulcerative colitis
+  - https://pubmed.ncbi.nlm.nih.gov/29618496/
+    - anti-TNFα responders vs. non-responders
+  - https://www.ncbi.nlm.nih.gov/pubmed/21849664/
+    - anti-epileptic agent topiramate identified through gene expression data
+      with drug screening
+
+<!-- ############ -->
 
 ## People and Labs
 - https://github.com/GRONINGEN-MICROBIOME-CENTRE
 - https://www.broadinstitute.org/bios/ramnik-xavier
+
+<!-- ############ -->
 
 ## Problems to tackle
 
@@ -95,7 +109,7 @@
 
 </details>
 
----
+<!-- ############ -->
 
 ## Things to look into
 - What are the regulatory requirements for a diagnostic?
