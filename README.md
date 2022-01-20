@@ -1,9 +1,9 @@
 # IBD
 
 <details>
-<summary><h2>The science of IBD</h2></summary>
+<summary><h3>The science of IBD</h3></summary>
 
-## Where is IBD found?
+### Where is IBD found?
 - Western hemisphere: United States, United Kingdom, Poland, Serbia, Romania
 
 </details>
@@ -34,7 +34,7 @@
 - https://www.broadinstitute.org/bios/ramnik-xavier
 
 <details>
-<summary><h2>Problems to tackle</h2></summary>
+<summary><h3>Problems to tackle</h3></summary>
 
 ### Research
 - Predicting disease course
@@ -72,7 +72,6 @@
 - Keeping track of all interactions between study coordinators and possible
   subjects (i.e. keep track of those who do not want to partake)
 
-</details>
 
 ---
 
@@ -98,6 +97,8 @@
 - Samples must be processed according to protocol and collaborator requests
   - For IBD tracker, **Freezerworks** is used to barcode and track sample
     attributes and location
+
+</details>
 
 </details>
 
