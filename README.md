@@ -1,5 +1,13 @@
 # IBD
 
+<details>
+<summary><h2>The science of IBD</h2></summary>
+
+## Where is IBD found?
+- Western hemisphere: United States, United Kingdom, Poland, Serbia, Romania
+
+</details>
+
 ## Papers
 
 ### IBD
@@ -18,17 +26,34 @@
 
 ## Datasets
 - https://robertshippey.github.io/IBD-data/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6687058/
+  - Public datasets with paired molecualr and patient survey info exist
 
 ## People and Labs
 - https://github.com/GRONINGEN-MICROBIOME-CENTRE
 - https://www.broadinstitute.org/bios/ramnik-xavier
 
-## Problems to tackle
+<details>
+<summary><h2>Problems to tackle</h2></summary>
 
 ### Research
 - Predicting disease course
 - Figuring out the causes of patients going from inactive to active disease
-- Better data for better characterization of IBD
+  - tools to identify triggers of pathologic/regulatory T cells in disease
+  - how do we get this data back to the patient in a way that is meaningful
+    - T-cell _X_ is responding to organism _Y_
+  - Potential
+    - potential for individualization: personalization of response in terms of
+      microbes, immune response, and cellular heterogeneity as a function of
+      time
+  - Challenges
+    - technology, scale, and cost
+    - how to develop and rank the most predictive assays on small tissue
+      biopsies
+- Better therapies for IBD
+- Better characterization of IBD
+  - Need to collect better data
+  - Redefine cellular and spatio-cellular features of IBD
 
 ### Business
 - Lowering the cost of the IBD Tracker
@@ -46,6 +71,8 @@
 - Subject follow up can be challenging
 - Keeping track of all interactions between study coordinators and possible
   subjects (i.e. keep track of those who do not want to partake)
+
+</details>
 
 ---
 

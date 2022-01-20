@@ -21,4 +21,3 @@
 - Emerging marketplace of therapeutics including various biologics
 - Public data with paired molecular and patient survey info exist
 - Real world data exists, however limited pairing with molecular data
-
